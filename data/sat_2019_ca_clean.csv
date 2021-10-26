@@ -1,0 +1,319 @@
+school_name,district_name,enrollment11,num_testtakers11,num_erwbenchmark11,pct_erwbenchmark11,num_mathbenchmark11,pct_mathbenchmark11,total_num_bothbenchmark11,pct_bothbenchmark11
+Belmont Senior High,Los Angeles Unified,219.0,174.0,42.0,24.14,12.0,6.9,11.0,6.32
+Canoga Park Senior High,Los Angeles Unified,333.0,275.0,97.0,35.27,37.0,13.45,35.0,12.73
+Foshay Learning Center,Los Angeles Unified,187.0,183.0,91.0,49.73,47.0,25.68,44.0,24.04
+New Open World Academy K-12,Los Angeles Unified,79.0,79.0,22.0,27.85,10.0,12.66,6.0,7.59
+Corona High,Corona-Norco Unified,572.0,168.0,128.0,76.19,84.0,50.0,78.0,46.43
+Central High,Los Angeles Unified,156.0,18.0,2.0,11.11,1.0,5.56,1.0,5.56
+The O'Farrell Charter,San Diego Unified,127.0,114.0,77.0,67.54,47.0,41.23,47.0,41.23
+University High School Charter,Los Angeles Unified,307.0,315.0,194.0,61.59,117.0,37.14,110.0,34.92
+City of Angels,Los Angeles Unified,352.0,83.0,46.0,55.42,16.0,19.28,16.0,19.28
+Lowell High,San Francisco Unified,711.0,565.0,560.0,99.12,546.0,96.64,543.0,96.11
+San Diego Business/Leadership,San Diego Unified,139.0,17.0,11.0,64.71,3.0,17.65,3.0,17.65
+Kearny Digital Media & Design,San Diego Unified,100.0,39.0,32.0,82.05,25.0,64.1,23.0,58.97
+Esteban Torres East LA Performing Arts Magnet,Los Angeles Unified,113.0,100.0,40.0,40.0,8.0,8.0,8.0,8.0
+Arroyo Valley High,San Bernardino City Unified,631.0,554.0,209.0,37.73,91.0,16.43,85.0,15.34
+Middle College High,San Bernardino City Unified,70.0,67.0,55.0,82.09,44.0,65.67,41.0,61.19
+Cesar E. Chavez Learning Academies-Arts/Theatre/Entertain Mag,Los Angeles Unified,100.0,89.0,43.0,48.31,18.0,20.22,15.0,16.85
+El Camino Fundamental High,San Juan Unified,352.0,120.0,106.0,88.33,75.0,62.5,72.0,60.0
+Point Loma High,San Diego Unified,480.0,238.0,212.0,89.08,180.0,75.63,174.0,73.11
+Alliance Gertz-Ressler Richard Merkin 6-12 Complex,Los Angeles Unified,132.0,127.0,79.0,62.2,57.0,44.88,48.0,37.8
+Port of Los Angeles High,Los Angeles Unified,241.0,77.0,66.0,85.71,62.0,80.52,59.0,76.62
+Boyle Heights STEM High,Los Angeles Unified,50.0,50.0,20.0,40.0,7.0,14.0,7.0,14.0
+View Park Continuation,Los Angeles Unified,17.0,19.0,4.0,21.05,0.0,0.0,0.0,0.0
+Los Angeles Academy of Arts and Enterprise,Los Angeles Unified,43.0,30.0,5.0,16.67,4.0,13.33,4.0,13.33
+KIPP San Francisco College Preparatory,San Francisco Unified,87.0,24.0,14.0,58.33,12.0,50.0,10.0,41.67
+Rancho Dominguez Preparatory,Los Angeles Unified,127.0,131.0,46.0,35.11,21.0,16.03,18.0,13.74
+Animo College Preparatory Academy,Los Angeles Unified,115.0,60.0,15.0,25.0,4.0,6.67,4.0,6.67
+Charter School of San Diego,San Diego Unified,181.0,20.0,19.0,95.0,11.0,55.0,11.0,55.0
+Sheldon High,Elk Grove Unified,633.0,226.0,189.0,83.63,146.0,64.6,138.0,61.06
+J. E. Young Academic Center,Fresno Unified,109.0,20.0,4.0,20.0,1.0,5.0,1.0,5.0
+TEACH Tech Charter High,Los Angeles Unified,78.0,54.0,14.0,25.93,2.0,3.7,2.0,3.7
+Collegiate Charter High of Los Angeles,Los Angeles Unified,40.0,37.0,21.0,56.76,13.0,35.14,12.0,32.43
+Jordan High,Long Beach Unified,631.0,486.0,133.0,27.37,59.0,12.14,50.0,10.29
+Burton (Phillip and Sala) Academic High,San Francisco Unified,241.0,105.0,82.0,78.1,62.0,59.05,60.0,57.14
+Design Science Middle College High,Fresno Unified,68.0,67.0,61.0,91.04,54.0,80.6,51.0,76.12
+Vaughn Next Century Learning Center,Los Angeles Unified,172.0,53.0,38.0,71.7,28.0,52.83,25.0,47.17
+Sun Valley High,Los Angeles Unified,91.0,99.0,19.0,19.19,6.0,6.06,6.0,6.06
+"Girls Academic Leadership Academy, Dr. Michelle King School for Sci Tech Eng and Math",Los Angeles Unified,47.0,43.0,24.0,55.81,13.0,30.23,13.0,30.23
+Moneta Continuation,Los Angeles Unified,13.0,22.0,4.0,18.18,0.0,0.0,0.0,0.0
+George S. Patton Continuation,Los Angeles Unified,20.0,38.0,4.0,10.53,1.0,2.63,1.0,2.63
+Will Rogers Continuation,Los Angeles Unified,38.0,22.0,3.0,13.64,2.0,9.09,2.0,9.09
+Animo South Los Angeles Charter,Los Angeles Unified,141.0,88.0,29.0,32.95,15.0,17.05,14.0,15.91
+Richard A. Alonzo Community Day,Los Angeles Unified,15.0,21.0,0.0,0.0,0.0,0.0,0.0,0.0
+East Los Angeles Renaissance Academy at Esteban E. Torres High No. 2,Los Angeles Unified,72.0,85.0,23.0,27.06,13.0,15.29,12.0,14.12
+Alliance Susan and Eric Smidt Technology High,Los Angeles Unified,135.0,115.0,46.0,40.0,29.0,25.22,26.0,22.61
+Larchmont Charter,Los Angeles Unified,103.0,61.0,58.0,95.08,44.0,72.13,43.0,70.49
+John H. Francis Polytechnic,Los Angeles Unified,618.0,573.0,297.0,51.83,168.0,29.32,157.0,27.4
+King/Drew Medical Magnet High,Los Angeles Unified,343.0,330.0,199.0,60.3,102.0,30.91,94.0,28.48
+Abraham Lincoln Senior High,Los Angeles Unified,234.0,177.0,87.0,49.15,61.0,34.46,51.0,28.81
+Augustus F. Hawkins High A Critical Design and Gaming,Los Angeles Unified,135.0,100.0,14.0,14.0,7.0,7.0,4.0,4.0
+"Science, Technology, Engineering, Arts and Mathematics at Legacy High School Complex",Los Angeles Unified,132.0,117.0,72.0,61.54,39.0,33.33,38.0,32.48
+Hoover High,San Diego Unified,518.0,219.0,132.0,60.27,64.0,29.22,59.0,26.94
+Madison High,San Diego Unified,247.0,114.0,84.0,73.68,44.0,38.6,43.0,37.72
+ICEF View Park Preparatory High,Los Angeles Unified,170.0,25.0,12.0,48.0,2.0,8.0,2.0,8.0
+Monterey Trail High,Elk Grove Unified,579.0,207.0,156.0,75.36,125.0,60.39,115.0,55.56
+Frida Kahlo High,Los Angeles Unified,54.0,22.0,1.0,4.55,0.0,0.0,0.0,0.0
+Panorama High,Los Angeles Unified,278.0,224.0,61.0,27.23,19.0,8.48,18.0,8.04
+Crawford High,San Diego Unified,279.0,126.0,65.0,51.59,29.0,23.02,25.0,19.84
+CATCH Prep Charter High Inc.,Los Angeles Unified,41.0,35.0,13.0,37.14,4.0,11.43,3.0,8.57
+Maywood Academy High,Los Angeles Unified,226.0,220.0,75.0,34.09,28.0,12.73,26.0,11.82
+Augustus F. Hawkins High B Community Health Advocates,Los Angeles Unified,120.0,87.0,13.0,14.94,1.0,1.15,1.0,1.15
+High Tech LA,Los Angeles Unified,91.0,62.0,58.0,93.55,46.0,74.19,46.0,74.19
+Tesoro High,Capistrano Unified,639.0,266.0,259.0,97.37,245.0,92.11,243.0,91.35
+McLane High,Fresno Unified,423.0,284.0,99.0,34.86,26.0,9.15,21.0,7.39
+El Camino Real Charter High,Los Angeles Unified,863.0,278.0,263.0,94.6,232.0,83.45,228.0,82.01
+Fairfax Senior High,Los Angeles Unified,339.0,274.0,188.0,68.61,104.0,37.96,101.0,36.86
+Sherman Oaks Center for Enriched Studies,Los Angeles Unified,251.0,225.0,185.0,82.22,138.0,61.33,137.0,60.89
+Early College Academy-LA Trade Tech College,Los Angeles Unified,37.0,36.0,11.0,30.56,4.0,11.11,3.0,8.33
+Youth Opportunities Unlimited,Los Angeles Unified,82.0,57.0,1.0,1.75,0.0,0.0,0.0,0.0
+Synergy Quantum Academy,Los Angeles Unified,131.0,66.0,40.0,60.61,19.0,28.79,19.0,28.79
+Humanitas Academy of Art and Technology at Esteban E. Torres High No. 4,Los Angeles Unified,83.0,70.0,26.0,37.14,7.0,10.0,6.0,8.57
+City Arts and Tech High,San Francisco Unified,81.0,48.0,16.0,33.33,10.0,20.83,6.0,12.5
+Contreras Learning Center-Academic Leadership Community,Los Angeles Unified,105.0,84.0,28.0,33.33,18.0,21.43,17.0,20.24
+Bright Star Secondary Charter Academy,Los Angeles Unified,134.0,86.0,56.0,65.12,21.0,24.42,21.0,24.42
+Kearny SCT,San Diego Unified,79.0,34.0,26.0,76.47,16.0,47.06,16.0,47.06
+Gardena Senior High,Los Angeles Unified,313.0,299.0,102.0,34.11,36.0,12.04,35.0,11.71
+David Starr Jordan Senior High,Los Angeles Unified,102.0,96.0,23.0,23.96,5.0,5.21,4.0,4.17
+Cajon High,San Bernardino City Unified,661.0,608.0,321.0,52.8,159.0,26.15,152.0,25.0
+Cesar E. Chavez Learning Academies-Academy of Scientific Exploration (ASE),Los Angeles Unified,87.0,91.0,41.0,45.05,19.0,20.88,17.0,18.68
+Cesar E. Chavez Learning Academies-Technology Preparatory Academy,Los Angeles Unified,85.0,76.0,16.0,21.05,3.0,3.95,3.0,3.95
+Diego Rivera Learning Complex Green Design STEAM Academy,Los Angeles Unified,101.0,91.0,22.0,24.18,13.0,14.29,11.0,12.09
+Performing Arts Community at Diego Rivera Learning Complex,Los Angeles Unified,125.0,103.0,34.0,33.01,14.0,13.59,13.0,12.62
+Mesa Verde High,San Juan Unified,212.0,95.0,67.0,70.53,38.0,40.0,32.0,33.68
+Mira Loma High,San Juan Unified,467.0,150.0,144.0,96.0,139.0,92.67,137.0,91.33
+La Jolla High,San Diego Unified,343.0,167.0,161.0,96.41,138.0,82.63,138.0,82.63
+Linda Esperanza Marquez High A Huntington Park Institute of Applied Medicine,Los Angeles Unified,169.0,159.0,73.0,45.91,36.0,22.64,32.0,20.13
+Cosumnes Oaks High,Elk Grove Unified,596.0,278.0,258.0,92.81,240.0,86.33,235.0,84.53
+Public Safety Academy,San Bernardino City Unified,62.0,55.0,19.0,34.55,6.0,10.91,5.0,9.09
+Carson Senior High,Los Angeles Unified,336.0,299.0,139.0,46.49,59.0,19.73,54.0,18.06
+Helen Bernstein High,Los Angeles Unified,114.0,94.0,23.0,24.47,16.0,17.02,11.0,11.7
+APEX Academy,Los Angeles Unified,64.0,40.0,7.0,17.5,1.0,2.5,1.0,2.5
+Los Angeles High School of the Arts,Los Angeles Unified,109.0,89.0,25.0,28.09,10.0,11.24,8.0,8.99
+Beach High-Intensive Learning Program,Long Beach Unified,46.0,24.0,2.0,8.33,0.0,0.0,0.0,0.0
+Alliance Dr. Olga Mohan High,Los Angeles Unified,99.0,99.0,61.0,61.62,58.0,58.59,49.0,49.49
+Contreras Learning Center-Los Angeles School of Global Studies,Los Angeles Unified,70.0,42.0,9.0,21.43,3.0,7.14,2.0,4.76
+Bullard High,Fresno Unified,574.0,399.0,234.0,58.65,113.0,28.32,110.0,27.57
+Oscar De La Hoya Animo Charter High,Los Angeles Unified,144.0,129.0,58.0,44.96,25.0,19.38,20.0,15.5
+Academy of Medical Arts at Carson High,Los Angeles Unified,114.0,113.0,70.0,61.95,26.0,23.01,26.0,23.01
+Franklin High,Elk Grove Unified,664.0,312.0,297.0,95.19,262.0,83.97,260.0,83.33
+Mission High,San Francisco Unified,288.0,61.0,33.0,54.1,17.0,27.87,15.0,24.59
+Edward R. Roybal Learning Center,Los Angeles Unified,184.0,214.0,62.0,28.97,24.0,11.21,21.0,9.81
+Alain Leroy Locke College Preparatory Academy,Los Angeles Unified,387.0,189.0,46.0,24.34,17.0,8.99,14.0,7.41
+Linda Esperanza Marquez High C School of Social Justice,Los Angeles Unified,170.0,166.0,45.0,27.11,18.0,10.84,17.0,10.24
+Manual Arts Senior High,Los Angeles Unified,353.0,302.0,74.0,24.5,24.0,7.95,21.0,6.95
+Reseda Charter High,Los Angeles Unified,326.0,278.0,110.0,39.57,66.0,23.74,60.0,21.58
+Theodore Roosevelt Senior High,Los Angeles Unified,302.0,269.0,76.0,28.25,15.0,5.58,12.0,4.46
+School of Business and Tourism at Contreras Learning Complex,Los Angeles Unified,104.0,114.0,39.0,34.21,16.0,14.04,11.0,9.65
+San Diego International Studies,San Diego Unified,279.0,153.0,139.0,90.85,107.0,69.93,107.0,69.93
+CHAMPS - Charter HS of Arts-Multimedia & Performing,Los Angeles Unified,193.0,69.0,56.0,81.16,33.0,47.83,32.0,46.38
+Santee Education Complex,Los Angeles Unified,455.0,371.0,120.0,32.35,51.0,13.75,44.0,11.86
+Cal Burke High,Los Angeles Unified,53.0,37.0,1.0,2.7,0.0,0.0,0.0,0.0
+Felicitas and Gonzalo Mendez High,Los Angeles Unified,201.0,204.0,81.0,39.71,41.0,20.1,33.0,16.18
+New Designs Charter School-Watts,Los Angeles Unified,49.0,19.0,5.0,26.32,1.0,5.26,1.0,5.26
+Ambassador-Global Leadership,Los Angeles Unified,74.0,66.0,22.0,33.33,10.0,15.15,4.0,6.06
+e3 Civic High,San Diego Unified,101.0,91.0,38.0,41.76,20.0,21.98,17.0,18.68
+Monterey Continuation,Los Angeles Unified,10.0,30.0,3.0,10.0,0.0,0.0,0.0,0.0
+Los Angeles Center for Enriched Studies,Los Angeles Unified,225.0,210.0,193.0,91.9,164.0,78.1,163.0,77.62
+Downtown Business High,Los Angeles Unified,223.0,231.0,171.0,74.03,132.0,57.14,124.0,53.68
+Benjamin Franklin Senior High,Los Angeles Unified,306.0,297.0,147.0,49.49,97.0,32.66,86.0,28.96
+Communication and Technology at Diego Rivera Learning Complex,Los Angeles Unified,102.0,105.0,21.0,20.0,9.0,8.57,6.0,5.71
+Alliance Margaret M. Bloomfield Technology Academy High,Los Angeles Unified,111.0,98.0,42.0,42.86,20.0,20.41,17.0,17.35
+Aspire Alexander Twilight Secondary Academy,San Juan Unified,38.0,19.0,10.0,52.63,2.0,10.53,2.0,10.53
+Phineas Banning Senior High,Los Angeles Unified,588.0,514.0,176.0,34.24,73.0,14.2,69.0,13.42
+Lake Balboa College Preparatory Magnet K-12,Los Angeles Unified,32.0,30.0,22.0,73.33,19.0,63.33,16.0,53.33
+Capistrano Valley High,Capistrano Unified,533.0,182.0,168.0,92.31,141.0,77.47,139.0,76.37
+San Clemente High,Capistrano Unified,706.0,283.0,262.0,92.58,226.0,79.86,224.0,79.15
+"Math, Science, & Technology Magnet Academy at Roosevelt High",Los Angeles Unified,151.0,131.0,80.0,61.07,48.0,36.64,43.0,32.82
+San Bernardino High,San Bernardino City Unified,375.0,268.0,103.0,38.43,40.0,14.93,30.0,11.19
+Bella Vista High,San Juan Unified,437.0,155.0,145.0,93.55,134.0,86.45,133.0,85.81
+Scripps Ranch High,San Diego Unified,518.0,329.0,320.0,97.26,311.0,94.53,307.0,93.31
+High Tech High,San Diego Unified,126.0,65.0,51.0,78.46,34.0,52.31,32.0,49.23
+Morse High,San Diego Unified,422.0,107.0,80.0,74.77,59.0,55.14,52.0,48.6
+Avalon K-12,Long Beach Unified,37.0,28.0,18.0,64.29,10.0,35.71,10.0,35.71
+James Monroe High,Los Angeles Unified,416.0,361.0,113.0,31.3,40.0,11.08,36.0,9.97
+San Fernando Senior High,Los Angeles Unified,435.0,423.0,162.0,38.3,85.0,20.09,76.0,17.97
+Van Nuys Senior High,Los Angeles Unified,606.0,531.0,338.0,63.65,230.0,43.31,223.0,42.0
+Palisades Charter High,Los Angeles Unified,749.0,323.0,305.0,94.43,264.0,81.73,260.0,80.5
+"Hilda L. Solis Learning Academy School of Technology, Business and Education",Los Angeles Unified,44.0,37.0,7.0,18.92,5.0,13.51,3.0,8.11
+Leadership High,San Francisco Unified,77.0,16.0,7.0,43.75,3.0,18.75,3.0,18.75
+NAVA College Preparatory Academy,Los Angeles Unified,116.0,113.0,27.0,23.89,7.0,6.19,6.0,5.31
+Fresno High,Fresno Unified,471.0,245.0,114.0,46.53,32.0,13.06,29.0,11.84
+Northridge Academy High,Los Angeles Unified,197.0,176.0,92.0,52.27,48.0,27.27,45.0,25.57
+Elk Grove High,Elk Grove Unified,438.0,153.0,134.0,87.58,106.0,69.28,103.0,67.32
+Millikan High,Long Beach Unified,862.0,785.0,553.0,70.45,346.0,44.08,329.0,41.91
+Polytechnic High,Long Beach Unified,989.0,824.0,500.0,60.68,324.0,39.32,314.0,38.11
+Wilson High,Long Beach Unified,887.0,775.0,441.0,56.9,226.0,29.16,215.0,27.74
+San Pedro Senior High,Los Angeles Unified,558.0,477.0,243.0,50.94,139.0,29.14,129.0,27.04
+Taft Charter High,Los Angeles Unified,545.0,458.0,304.0,66.38,193.0,42.14,186.0,40.61
+Venice Senior High,Los Angeles Unified,463.0,417.0,248.0,59.47,135.0,32.37,127.0,30.46
+Augustus F. Hawkins High C Responsible Indigenous Social Entrepreneurship,Los Angeles Unified,92.0,73.0,8.0,10.96,1.0,1.37,1.0,1.37
+Linda Esperanza Marquez High B LIBRA Academy,Los Angeles Unified,179.0,172.0,87.0,50.58,49.0,28.49,41.0,23.84
+Visual and Performing Arts at Legacy High School Complex,Los Angeles Unified,95.0,98.0,46.0,46.94,13.0,13.27,13.0,13.27
+Angel's Gate (Continuation),Los Angeles Unified,32.0,21.0,3.0,14.29,1.0,4.76,1.0,4.76
+Chatsworth Charter High,Los Angeles Unified,435.0,307.0,152.0,49.51,76.0,24.76,69.0,22.48
+Sun Valley Magnet,Los Angeles Unified,82.0,81.0,28.0,34.57,17.0,20.99,14.0,17.28
+Options for Youth-San Juan,San Juan Unified,209.0,31.0,13.0,41.94,4.0,12.9,4.0,12.9
+Dana Hills High,Capistrano Unified,623.0,215.0,203.0,94.42,191.0,88.84,187.0,86.98
+Lincoln (Abraham) High,San Francisco Unified,516.0,281.0,243.0,86.48,217.0,77.22,205.0,72.95
+Santiago High,Corona-Norco Unified,914.0,402.0,346.0,86.07,305.0,75.87,291.0,72.39
+Alliance Cindy and Bill Simon Technology Academy High,Los Angeles Unified,114.0,108.0,35.0,32.41,17.0,15.74,13.0,12.04
+Indian Springs High,San Bernardino City Unified,426.0,353.0,130.0,36.83,49.0,13.88,43.0,12.18
+San Gorgonio High,San Bernardino City Unified,451.0,350.0,164.0,46.86,52.0,14.86,46.0,13.14
+Maywood Center for Enriched Studies,Los Angeles Unified,119.0,112.0,35.0,31.25,18.0,16.07,18.0,16.07
+Robert Fulton College Preparatory,Los Angeles Unified,169.0,180.0,66.0,36.67,23.0,12.78,21.0,11.67
+Grover Cleveland Charter High,Los Angeles Unified,748.0,582.0,404.0,69.42,268.0,46.05,262.0,45.02
+Edison High,Fresno Unified,586.0,498.0,329.0,66.06,199.0,39.96,197.0,39.56
+PUC Triumph Charter Academy and PUC Triumph Charter High,Los Angeles Unified,92.0,66.0,32.0,48.48,21.0,31.82,18.0,27.27
+Rise Kohyang High,Los Angeles Unified,81.0,22.0,21.0,95.45,19.0,86.36,18.0,81.82
+Alliance Alice M. Baxter College-Ready High,Los Angeles Unified,81.0,85.0,44.0,51.76,30.0,35.29,24.0,28.24
+"Crenshaw Science, Technology, Engineering, Math and Medicine Magnet",Los Angeles Unified,217.0,158.0,35.0,22.15,8.0,5.06,5.0,3.16
+Elizabeth Learning Center,Los Angeles Unified,203.0,190.0,70.0,36.84,15.0,7.89,11.0,5.79
+Alliance Marc & Eva Stern Math and Science,Los Angeles Unified,155.0,147.0,98.0,66.67,65.0,44.22,61.0,41.5
+University City High,San Diego Unified,431.0,212.0,194.0,91.51,175.0,82.55,172.0,81.13
+Henry High,San Diego Unified,580.0,311.0,295.0,94.86,245.0,78.78,244.0,78.46
+Ramon C. Cortines School of Visual and Performing Arts,Los Angeles Unified,326.0,289.0,160.0,55.36,69.0,23.88,62.0,21.45
+PUC CALS Middle School and Early College High,Los Angeles Unified,69.0,49.0,21.0,42.86,12.0,24.49,11.0,22.45
+Middle College High,Los Angeles Unified,91.0,91.0,65.0,71.43,22.0,24.18,22.0,24.18
+Erma Duncan Polytechnical High,Fresno Unified,278.0,256.0,104.0,40.63,27.0,10.55,24.0,9.38
+Humanities and Arts (HARTS) Academy of Los Angeles,Los Angeles Unified,104.0,96.0,31.0,32.29,7.0,7.29,7.0,7.29
+Camino Nuevo High #2,Los Angeles Unified,116.0,89.0,44.0,49.44,14.0,15.73,12.0,13.48
+Animo Watts College Preparatory Academy,Los Angeles Unified,127.0,119.0,44.0,36.97,12.0,10.08,8.0,6.72
+High Tech High International,San Diego Unified,98.0,60.0,46.0,76.67,30.0,50.0,29.0,48.33
+Washington (George) High,San Francisco Unified,500.0,244.0,208.0,85.25,201.0,82.38,181.0,74.18
+UCLA Community K-12,Los Angeles Unified,113.0,117.0,59.0,50.43,34.0,29.06,32.0,27.35
+Birmingham Community Charter High,Los Angeles Unified,744.0,639.0,310.0,48.51,163.0,25.51,150.0,23.47
+Albert Einstein Continuation,Los Angeles Unified,16.0,31.0,2.0,6.45,1.0,3.23,1.0,3.23
+Eunice Sato Academy of Math & Science,Long Beach Unified,95.0,93.0,86.0,92.47,84.0,90.32,80.0,86.02
+Math and Science College Preparatory,Los Angeles Unified,135.0,132.0,69.0,52.27,43.0,32.58,37.0,28.03
+Engineering and Technology Academy at Esteban E. Torres High No. 3,Los Angeles Unified,79.0,77.0,17.0,22.08,10.0,12.99,8.0,10.39
+Pacific High,San Bernardino City Unified,267.0,181.0,55.0,30.39,25.0,13.81,21.0,11.6
+High Tech High Media Arts,San Diego Unified,97.0,61.0,48.0,78.69,33.0,54.1,33.0,54.1
+King-Chavez Community High,San Diego Unified,103.0,30.0,7.0,23.33,7.0,23.33,4.0,13.33
+Public Service Community at Diego Rivera Learning Complex,Los Angeles Unified,120.0,104.0,20.0,19.23,14.0,13.46,13.0,12.5
+Rio Americano High,San Juan Unified,475.0,198.0,185.0,93.43,166.0,83.84,162.0,81.82
+Balboa High,San Francisco Unified,293.0,126.0,101.0,80.16,97.0,76.98,90.0,71.43
+Gateway High,San Francisco Unified,118.0,64.0,45.0,70.31,36.0,56.25,34.0,53.13
+Daniel Pearl Journalism & Communications Magnet,Los Angeles Unified,88.0,87.0,63.0,72.41,27.0,31.03,27.0,31.03
+Renaissance High School for the Arts,Long Beach Unified,110.0,100.0,55.0,55.0,17.0,17.0,16.0,16.0
+Kearny Eng Innov & Design,San Diego Unified,86.0,26.0,16.0,61.54,14.0,53.85,12.0,46.15
+Dr. Maya Angelou Community High,Los Angeles Unified,234.0,224.0,28.0,12.5,6.0,2.68,4.0,1.79
+Del Campo High,San Juan Unified,412.0,74.0,68.0,91.89,58.0,78.38,57.0,77.03
+San Diego SCPA,San Diego Unified,203.0,85.0,69.0,81.18,51.0,60.0,51.0,60.0
+Renaissance Arts Academy,Los Angeles Unified,47.0,30.0,24.0,80.0,13.0,43.33,13.0,43.33
+Animo Venice Charter High,Los Angeles Unified,160.0,134.0,69.0,51.49,37.0,27.61,32.0,23.88
+Orthopaedic Hospital,Los Angeles Unified,180.0,189.0,112.0,59.26,68.0,35.98,62.0,32.8
+Central City Value,Los Angeles Unified,98.0,48.0,27.0,56.25,12.0,25.0,11.0,22.92
+San Juan Hills High,Capistrano Unified,601.0,205.0,192.0,93.66,176.0,85.85,173.0,84.39
+Aliso Niguel High,Capistrano Unified,789.0,338.0,327.0,96.75,303.0,89.64,300.0,88.76
+Pleasant Grove High,Elk Grove Unified,624.0,305.0,292.0,95.74,282.0,92.46,274.0,89.84
+Sunnyside High,Fresno Unified,647.0,502.0,211.0,42.03,82.0,16.33,70.0,13.94
+John Hope Continuation,Los Angeles Unified,28.0,16.0,2.0,12.5,0.0,0.0,0.0,0.0
+Huntington Park Senior High,Los Angeles Unified,343.0,311.0,96.0,30.87,45.0,14.47,32.0,10.29
+Social Justice Leadership Academy at Esteban E. Torres High No. 5,Los Angeles Unified,71.0,71.0,11.0,15.49,6.0,8.45,4.0,5.63
+Alliance Ted K. Tajima High,Los Angeles Unified,111.0,108.0,50.0,46.3,34.0,31.48,29.0,26.85
+Bert Corona Charter High,Los Angeles Unified,78.0,66.0,18.0,27.27,9.0,13.64,6.0,9.09
+School for the Visual Arts and Humanities,Los Angeles Unified,94.0,87.0,23.0,26.44,13.0,14.94,8.0,9.2
+Alliance Judy Ivie Burton Technology Academy High,Los Angeles Unified,149.0,144.0,86.0,59.72,67.0,46.53,59.0,40.97
+South East High,Los Angeles Unified,490.0,421.0,220.0,52.26,96.0,22.8,88.0,20.9
+Reid High,Long Beach Unified,54.0,38.0,3.0,7.89,0.0,0.0,0.0,0.0
+Educational Partnership High,Long Beach Unified,202.0,86.0,16.0,18.6,1.0,1.16,1.0,1.16
+John Marshall Senior High,Los Angeles Unified,578.0,493.0,343.0,69.57,248.0,50.3,244.0,49.49
+Verdugo Hills Senior High,Los Angeles Unified,306.0,269.0,161.0,59.85,94.0,34.94,87.0,32.34
+John F. Kennedy High,Los Angeles Unified,544.0,506.0,269.0,53.16,177.0,34.98,162.0,32.02
+PUC Lakeview Charter High,Los Angeles Unified,102.0,73.0,53.0,72.6,33.0,45.21,31.0,42.47
+John F. Kennedy High,Corona-Norco Unified,206.0,93.0,86.0,92.47,68.0,73.12,66.0,70.97
+Norco High,Corona-Norco Unified,473.0,151.0,130.0,86.09,100.0,66.23,92.0,60.93
+California Connections Academy Southern California,Capistrano Unified,581.0,65.0,59.0,90.77,45.0,69.23,44.0,67.69
+Galileo High,San Francisco Unified,446.0,206.0,163.0,79.13,164.0,79.61,142.0,68.93
+Phillip J Patino School of Entrepreneurship,Fresno Unified,70.0,63.0,25.0,39.68,14.0,22.22,13.0,20.63
+Thirty-Second Street USC Performing Arts,Los Angeles Unified,77.0,73.0,40.0,54.79,25.0,34.25,22.0,30.14
+Eagle Tree Continuation,Los Angeles Unified,7.0,22.0,1.0,4.55,0.0,0.0,0.0,0.0
+John C. Fremont Senior High,Los Angeles Unified,452.0,465.0,111.0,23.87,28.0,6.02,25.0,5.38
+Ulysses S. Grant Senior High,Los Angeles Unified,401.0,373.0,190.0,50.94,104.0,27.88,94.0,25.2
+Hollywood Senior High,Los Angeles Unified,320.0,309.0,179.0,57.93,97.0,31.39,89.0,28.8
+Thomas Jefferson Senior High,Los Angeles Unified,163.0,131.0,26.0,19.85,12.0,9.16,9.0,6.87
+Bell Senior High,Los Angeles Unified,554.0,543.0,228.0,41.99,123.0,22.65,113.0,20.81
+Metropolitan Continuation,Los Angeles Unified,13.0,19.0,3.0,15.79,0.0,0.0,0.0,0.0
+Lakewood High,Long Beach Unified,739.0,658.0,344.0,52.28,182.0,27.66,163.0,24.77
+Nathaniel Narbonne Senior High,Los Angeles Unified,514.0,434.0,177.0,40.78,104.0,23.96,92.0,21.2
+North Hollywood Senior High,Los Angeles Unified,545.0,533.0,309.0,57.97,194.0,36.4,186.0,34.9
+Sylmar Charter High,Los Angeles Unified,352.0,317.0,129.0,40.69,69.0,21.77,60.0,18.93
+Animo Pat Brown,Los Angeles Unified,140.0,101.0,41.0,40.59,24.0,23.76,20.0,19.8
+International Studies Learning Center at Legacy High School Complex,Los Angeles Unified,94.0,91.0,57.0,62.64,35.0,38.46,30.0,32.97
+Herbert Hoover High,Fresno Unified,420.0,311.0,129.0,41.48,48.0,15.43,45.0,14.47
+Marshall (Thurgood) High,San Francisco Unified,122.0,55.0,13.0,23.64,9.0,16.36,7.0,12.73
+Lincoln High,San Diego Unified,354.0,137.0,52.0,37.96,25.0,18.25,19.0,13.87
+San Juan High,San Juan Unified,145.0,52.0,32.0,61.54,15.0,28.85,14.0,26.92
+Alliance Marine - Innovation and Technology 6-12 Complex,Los Angeles Unified,51.0,50.0,25.0,50.0,14.0,28.0,10.0,20.0
+University High,Fresno Unified,119.0,108.0,107.0,99.07,97.0,89.81,97.0,89.81
+Valor Academy High,Los Angeles Unified,122.0,19.0,11.0,57.89,7.0,36.84,6.0,31.58
+Cesar E. Chavez Learning Academies-Social Justice Humanitas Academy,Los Angeles Unified,132.0,133.0,57.0,42.86,17.0,12.78,14.0,10.53
+Alliance Renee and Meyer Luskin Academy High,Los Angeles Unified,124.0,115.0,34.0,29.57,24.0,20.87,21.0,18.26
+PUC Early College Academy for Leaders and Scholars (ECALS),Los Angeles Unified,100.0,68.0,31.0,45.59,21.0,30.88,17.0,25.0
+Visions In Education,San Juan Unified,725.0,43.0,40.0,93.02,31.0,72.09,31.0,72.09
+Eagle Rock High,Los Angeles Unified,374.0,330.0,235.0,71.21,165.0,50.0,160.0,48.48
+Academy (The)- SF @McAteer,San Francisco Unified,89.0,22.0,17.0,77.27,13.0,59.09,13.0,59.09
+Wallenberg (Raoul) Traditional High,San Francisco Unified,152.0,81.0,69.0,85.19,69.0,85.19,65.0,80.25
+Alliance Patti And Peter Neuwirth Leadership Academy,Los Angeles Unified,136.0,129.0,58.0,44.96,33.0,25.58,29.0,22.48
+Animo Ralph Bunche Charter High,Los Angeles Unified,143.0,102.0,49.0,48.04,19.0,18.63,17.0,16.67
+Highland Park Continuation,Los Angeles Unified,28.0,20.0,3.0,15.0,1.0,5.0,1.0,5.0
+Los Angeles Leadership Academy,Los Angeles Unified,64.0,39.0,17.0,43.59,4.0,10.26,3.0,7.69
+New Designs Charter,Los Angeles Unified,107.0,41.0,17.0,41.46,11.0,26.83,8.0,19.51
+Animo Jackie Robinson High,Los Angeles Unified,150.0,110.0,49.0,44.55,31.0,28.18,26.0,23.64
+Alliance Ouchi-O'Donovan 6-12 Complex,Los Angeles Unified,155.0,140.0,67.0,47.86,39.0,27.86,37.0,26.43
+Arleta High,Los Angeles Unified,359.0,298.0,114.0,38.26,64.0,21.48,57.0,19.13
+West Adams Preparatory High,Los Angeles Unified,362.0,311.0,82.0,26.37,35.0,11.25,29.0,9.32
+Alliance Piera Barbaglia Shaheen Health Services Academy,Los Angeles Unified,135.0,66.0,28.0,42.42,14.0,21.21,11.0,16.67
+Alliance Leichtman-Levine Family Foundation Environmental Science High,Los Angeles Unified,107.0,96.0,68.0,70.83,38.0,39.58,36.0,37.5
+Centennial High,Corona-Norco Unified,776.0,296.0,249.0,84.12,204.0,68.92,195.0,65.88
+South Gate Senior High,Los Angeles Unified,586.0,539.0,214.0,39.7,75.0,13.91,68.0,12.62
+Woodrow Wilson Senior High,Los Angeles Unified,301.0,290.0,105.0,36.21,56.0,19.31,47.0,16.21
+Alliance Collins Family College-Ready High,Los Angeles Unified,150.0,147.0,88.0,59.86,43.0,29.25,41.0,27.89
+"Asawa (Ruth) SF Sch of the Arts, A Public School",San Francisco Unified,200.0,127.0,122.0,96.06,104.0,81.89,102.0,80.31
+Academies of Education and Empowerment at Carson High,Los Angeles Unified,145.0,136.0,65.0,47.79,15.0,11.03,15.0,11.03
+Contreras Learning Center-School of Social Justice,Los Angeles Unified,100.0,104.0,25.0,24.04,9.0,8.65,8.0,7.69
+Phoenix Continuation,Los Angeles Unified,29.0,27.0,5.0,18.52,1.0,3.7,1.0,3.7
+Serra High,San Diego Unified,340.0,164.0,144.0,87.8,112.0,68.29,108.0,65.85
+Granada Hills Charter High,Los Angeles Unified,1218.0,522.0,493.0,94.44,447.0,85.63,439.0,84.1
+Alexander Hamilton Senior High,Los Angeles Unified,601.0,541.0,349.0,64.51,172.0,31.79,171.0,31.61
+Los Angeles Senior High,Los Angeles Unified,287.0,232.0,79.0,34.05,25.0,10.78,23.0,9.91
+PUC Community Charter Middle and PUC Community Charter Early College High,Los Angeles Unified,106.0,90.0,57.0,63.33,42.0,46.67,38.0,42.22
+Sylmar Biotech Health Academy,Los Angeles Unified,63.0,60.0,24.0,40.0,3.0,5.0,2.0,3.33
+Valley High,Elk Grove Unified,359.0,296.0,120.0,40.54,72.0,24.32,63.0,21.28
+Odyssey Continuation,Los Angeles Unified,30.0,31.0,5.0,16.13,2.0,6.45,1.0,3.23
+Susan Miller Dorsey Senior High,Los Angeles Unified,223.0,127.0,34.0,26.77,7.0,5.51,7.0,5.51
+Boyle Heights Continuation,Los Angeles Unified,15.0,17.0,0.0,0.0,0.0,0.0,0.0,0.0
+James A. Garfield Senior High,Los Angeles Unified,627.0,602.0,271.0,45.02,153.0,25.42,137.0,22.76
+East Valley Senior High,Los Angeles Unified,132.0,103.0,25.0,24.27,7.0,6.8,5.0,4.85
+California Academy of Mathematics and Science,Long Beach Unified,165.0,156.0,153.0,98.08,151.0,96.79,149.0,95.51
+Cabrillo High,Long Beach Unified,544.0,473.0,152.0,32.14,51.0,10.78,43.0,9.09
+WESM Health/Sports Medicine,Los Angeles Unified,236.0,180.0,97.0,53.89,42.0,23.33,39.0,21.67
+Dr. Richard A. Vladovic Harbor Teacher Preparation Academy,Los Angeles Unified,105.0,103.0,98.0,95.15,89.0,86.41,87.0,84.47
+Camino Nuevo Charter High,Los Angeles Unified,67.0,48.0,19.0,39.58,6.0,12.5,6.0,12.5
+Valley International Preparatory High,Los Angeles Unified,57.0,29.0,27.0,93.1,21.0,72.41,21.0,72.41
+Sonia Sotomayor Arts and Sciences Academies,Los Angeles Unified,115.0,102.0,36.0,35.29,8.0,7.84,8.0,7.84
+Mira Mesa High,San Diego Unified,556.0,242.0,224.0,92.56,198.0,81.82,191.0,78.93
+Health Sciences High,San Diego Unified,138.0,57.0,35.0,61.4,27.0,47.37,27.0,47.37
+University Preparatory Value High,Los Angeles Unified,114.0,102.0,27.0,26.47,16.0,15.69,15.0,14.71
+Laguna Creek High,Elk Grove Unified,459.0,192.0,176.0,91.67,155.0,80.73,150.0,78.13
+Simon Rodia Continuation,Los Angeles Unified,91.0,15.0,3.0,20.0,0.0,0.0,0.0,0.0
+Kearny College Connections,San Diego Unified,90.0,56.0,42.0,75.0,24.0,42.86,20.0,35.71
+San Diego Science and Technology,San Diego Unified,212.0,55.0,39.0,70.91,23.0,41.82,22.0,40.0
+Alliance Tennenbaum Family Technology High,Los Angeles Unified,82.0,42.0,25.0,59.52,7.0,16.67,6.0,14.29
+Valley Academy of Arts and Sciences,Los Angeles Unified,270.0,237.0,121.0,51.05,46.0,19.41,41.0,17.3
+Casa Roble Fundamental High,San Juan Unified,295.0,87.0,77.0,88.51,67.0,77.01,65.0,74.71
+Preuss School UCSD,San Diego Unified,113.0,106.0,94.0,88.68,72.0,67.92,68.0,64.15
+Clairemont High,San Diego Unified,215.0,79.0,64.0,81.01,46.0,58.23,46.0,58.23
+Mission Bay High,San Diego Unified,278.0,113.0,100.0,88.5,78.0,69.03,77.0,68.14
+Roosevelt High,Fresno Unified,499.0,250.0,83.0,33.2,28.0,11.2,21.0,8.4
+"Ernest S. McBride, Sr. High",Long Beach Unified,175.0,170.0,145.0,85.29,91.0,53.53,88.0,51.76
+George Washington Preparatory High,Los Angeles Unified,243.0,194.0,54.0,27.84,13.0,6.7,12.0,6.19
+Francisco Bravo Medical Magnet High,Los Angeles Unified,429.0,439.0,319.0,72.67,234.0,53.3,219.0,49.89
+Florin High,Elk Grove Unified,342.0,114.0,66.0,57.89,55.0,48.25,48.0,42.11
+STEM Academy at Bernstein High,Los Angeles Unified,131.0,119.0,62.0,52.1,39.0,32.77,32.0,26.89
+Academy for Multilingual Arts and Science at Mervyn M. Dymally High,Los Angeles Unified,200.0,147.0,25.0,17.01,2.0,1.36,2.0,1.36
+Gompers Preparatory Academy,San Diego Unified,153.0,144.0,60.0,41.67,20.0,13.89,17.0,11.81
+Harris Newmark Continuation,Los Angeles Unified,44.0,26.0,3.0,11.54,0.0,0.0,0.0,0.0
+Pueblo de Los Angeles Continuation,Los Angeles Unified,4.0,17.0,0.0,0.0,0.0,0.0,0.0,0.0
+Eleanor Roosevelt High,Corona-Norco Unified,1048.0,404.0,347.0,85.89,320.0,79.21,298.0,73.76
